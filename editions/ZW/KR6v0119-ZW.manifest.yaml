@@ -1,0 +1,264 @@
+canonical_identifier: bkk:krp/KR6v0119/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0119/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛峻經金剛頂一切如來深妙秘密金剛界大三昧耶修行四十九種壇法經作用威儀法則　大毘盧遮那佛金剛心地法門密法戒壇法儀則
+  identifiers:
+    krp: KR6v0119
+    cbeta: ZW11n0092
+    cbeta_old_id: ZW11n0092
+    authorityid: CA0008542
+    json_key: ZW0092
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW11/ZW11n0092.xml
+    old_id: ZW11n0092
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0119_000-ZW.yaml, hash: 'sha256:99ead576da510cd6b0a575e78af18d404260e828d0d3139ebc2f60eb155311a0'}
+  - {seq: 1, filename: KR6v0119_001-ZW.yaml, hash: 'sha256:9df0d0e5baa933afaee502dac8dbc8ccebd373f84f90fab5ff5ae99baa023b10'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0119_000-ZW.markers.yaml, hash: 'sha256:9b204e3a8352a3824169bf2cfaf436efd63751749064db6467ad03235743f6be'}
+  - {seq: 1, role: markers, filename: assets/KR6v0119_001-ZW.markers.yaml, hash: 'sha256:dca0e0ac519a0e6acce54aa6a3a532ddd3e18116b6ddda4f38b8a9bd9019e2b6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0119_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0119_ZW_000-mulu-2
+    span:
+    - front
+    - 1275
+    - 1275
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0119_ZW_000-mulu-3
+    span:
+    - front
+    - 1277
+    - 1277
+  label: 佛說五佛壇菩薩、名錄、座位之處部第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 21853
+  label: '金剛峻經金剛頂一切如來深妙秘密金剛
+
+    界大三昧耶修行四十九種壇法經作用威儀法
+
+    則　大毘盧遮那佛金剛心地法門密法戒
+
+    壇法儀則'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-1
+    span:
+    - body
+    - 1804
+    - 1804
+  label: 佛說密迹金剛畫像安壇名錄部第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-2
+    span:
+    - body
+    - 2456
+    - 2456
+  label: 說天王護國之法部第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-3
+    span:
+    - body
+    - 4689
+    - 4689
+  label: 佛說普賢菩薩安壇之法、菩薩名字並及身色、座位之處部第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-4
+    span:
+    - body
+    - 6045
+    - 6045
+  label: 佛說水陸、文殊菩薩之壇安大悲金剛菩薩名字、身色及座位之處部第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-5
+    span:
+    - body
+    - 8230
+    - 8230
+  label: 佛與金剛藏菩薩說八吉祥灌頂壇十六尊大士、八金剛名字、身色、座位之處部第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-6
+    span:
+    - body
+    - 9413
+    - 9413
+  label: 佛於靈鷲山中說三種月八吉祥授法之壇安排菩薩身色、名字及座位之處部第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-7
+    span:
+    - body
+    - 10340
+    - 10340
+  label: 佛於王舍城耆闍崛山說懺悔之壇法並菩薩身相、名字、身色、座位之處部第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-8
+    span:
+    - body
+    - 11500
+    - 11500
+  label: 佛住王舍城金剛座，共會諸天菩薩萬二千俱，說五佛、八菩薩之壇部第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-9
+    span:
+    - body
+    - 11642
+    - 11642
+  label: 次安五佛、四結界、四無量、八供養身相、名字、座位之處部第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-10
+    span:
+    - body
+    - 12097
+    - 12097
+  label: 佛於仞利天說五佛壇部第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-11
+    span:
+    - body
+    - 13017
+    - 13017
+  label: 佛說五佛、八菩薩、四結界、四懺悔、四無量具足之壇法部第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-12
+    span:
+    - body
+    - 14034
+    - 14034
+  label: 佛說觀佛三昧護身八金剛、四結界、八供養、五佛身七寶之處部第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-13
+    span:
+    - body
+    - 15083
+    - 15083
+  label: 爾時佛住伽維那國付普賢菩薩三昧七寶壇之處部第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-14
+    span:
+    - body
+    - 16003
+    - 16003
+  label: 佛說成就坐禪壇之處部第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-15
+    span:
+    - body
+    - 17137
+    - 17137
+  label: 佛說開禪修行菩提果坐七寶之壇處部第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-16
+    span:
+    - body
+    - 18064
+    - 18064
+  label: 佛說加持身七寶壇之處部第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-17
+    span:
+    - body
+    - 19151
+    - 19151
+  label: 佛說護國金剛薩埵體十寶之壇部第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-18
+    span:
+    - body
+    - 20260
+    - 20260
+  label: 佛說正法明王須弥盧山大教壇部第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0119_ZW_001-mulu-19
+    span:
+    - body
+    - 21257
+    - 21257
+  label: 佛住王舍城耆闍崛山中說八菩薩、八供養、四攝啟請安壇之法，並及尊像、身色、座位之處部第二十六
+  type: mulu
+  level: 1
+hash: sha256:88bcf5b2a023f05eb1965f05ac0add12d397905ea088cc797e481fae5dcb7f90
