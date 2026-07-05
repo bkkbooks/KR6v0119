@@ -13,11 +13,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0119_000.yaml, hash: 'sha256:cf9c87d6674b0990d52f9457d7475998eb5dc09824e37b92d53f06252dc0e766'}
-  - {seq: 1, filename: KR6v0119_001.yaml, hash: 'sha256:d978c49dd9d506dbd39116f74ad6784f6fd71881b0135c929e28b61e26b7117b'}
+  - {seq: 0, filename: KR6v0119_000.yaml, hash: 'sha256:99ead576da510cd6b0a575e78af18d404260e828d0d3139ebc2f60eb155311a0'}
+  - {seq: 1, filename: KR6v0119_001.yaml, hash: 'sha256:9df0d0e5baa933afaee502dac8dbc8ccebd373f84f90fab5ff5ae99baa023b10'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0119_000.markers.yaml, hash: 'sha256:c31c2e7a10554412d0412cac31b96fed8b790f1b3fa7f0ea9d48b17d6ee5b7ae'}
-  - {seq: 1, role: markers, filename: assets/KR6v0119_001.markers.yaml, hash: 'sha256:49099b34827d67d3d03ad47520fefb26dac408efbbc31e8f0ec3419dfc78df2b'}
+  - {seq: 0, role: markers, filename: assets/KR6v0119_000.markers.yaml, hash: 'sha256:cced3b76ea215e81aff7b43fc5ec7a6ecdff0c87b8e1236fadaff360fda6cf1d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0119_001.markers.yaml, hash: 'sha256:bdc9dde5d0e5aabd2a70bfac06d2c813c6725456a45bfd560215cd6a7acec26c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -255,9 +255,6 @@ table_of_contents:
   label: 佛住王舍城耆闍崛山中說八菩薩、八供養、四攝啟請安壇之法，並及尊像、身色、座位之處部第二十六
   type: mulu
   level: 1
-hash: sha256:136b8a5a22a4612029c5b97ee3a3d4f3f152c83c5b6381e7c77c76056234db1a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:80878b531aef7d1d6857924d13278581228fad931c36658775ae446cd34ee55f
 editions:
 - short: ZW
