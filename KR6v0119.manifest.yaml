@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0119/v1
 canonical_location: https://kanripo.org/bkk/KR6v0119/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛峻經金剛頂一切如來深妙秘密金剛界大三昧耶修行四十九種壇法經作用威儀法則　大毘盧遮那佛金剛心地法門密法戒壇法儀則
   source:
@@ -13,11 +13,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0119_000.yaml, hash: 'sha256:99ead576da510cd6b0a575e78af18d404260e828d0d3139ebc2f60eb155311a0'}
-  - {seq: 1, filename: KR6v0119_001.yaml, hash: 'sha256:9df0d0e5baa933afaee502dac8dbc8ccebd373f84f90fab5ff5ae99baa023b10'}
+  - {seq: 0, filename: KR6v0119_000.yaml, hash: 'sha256:031fa58ed277e426869cede9da8798b5a3611eee5b7a709db0b87f475f9eff85'}
+  - {seq: 1, filename: KR6v0119_001.yaml, hash: 'sha256:dea6504834b381e07d633aeec8cd9eb06efd892233ebb8f5b85dd482678f976d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0119_000.markers.yaml, hash: 'sha256:cced3b76ea215e81aff7b43fc5ec7a6ecdff0c87b8e1236fadaff360fda6cf1d'}
-  - {seq: 1, role: markers, filename: assets/KR6v0119_001.markers.yaml, hash: 'sha256:bdc9dde5d0e5aabd2a70bfac06d2c813c6725456a45bfd560215cd6a7acec26c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0119_000.markers.yaml, hash: 'sha256:3fe0c087066dfab80a26bea6bff3cd3f76745c7c776accd5d5ca9088af2a042b'}
+  - {seq: 1, role: markers, filename: assets/KR6v0119_001.markers.yaml, hash: 'sha256:65e6e49fbe7d0c70074023632acc2f69cfa9f19310fa1d8bdf00a3f703976d99'}
 table_of_contents:
 - ref:
     seq: 0
@@ -255,6 +255,9 @@ table_of_contents:
   label: 佛住王舍城耆闍崛山中說八菩薩、八供養、四攝啟請安壇之法，並及尊像、身色、座位之處部第二十六
   type: mulu
   level: 1
-hash: sha256:80878b531aef7d1d6857924d13278581228fad931c36658775ae446cd34ee55f
+hash: sha256:862462b2351fb0bc93715f373c2cb212eecf14670020f38449c3724e5a7922c5
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
