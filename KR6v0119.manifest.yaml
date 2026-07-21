@@ -13,17 +13,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0119_000.yaml, hash: 'sha256:031fa58ed277e426869cede9da8798b5a3611eee5b7a709db0b87f475f9eff85'}
+  - {seq: 0, filename: KR6v0119_000.yaml, hash: 'sha256:dc21f891936a1032363b182f9a333caa55f21b283c06e49f50c964f7e355831a'}
   - {seq: 1, filename: KR6v0119_001.yaml, hash: 'sha256:dea6504834b381e07d633aeec8cd9eb06efd892233ebb8f5b85dd482678f976d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0119_000.markers.yaml, hash: 'sha256:3fe0c087066dfab80a26bea6bff3cd3f76745c7c776accd5d5ca9088af2a042b'}
+  - {seq: 0, role: markers, filename: assets/KR6v0119_000.markers.yaml, hash: 'sha256:4c3b95e713c53aecb673aa40c5564befab4e02fe4120e82dc8bf3dfcba42c7f2'}
   - {seq: 1, role: markers, filename: assets/KR6v0119_001.markers.yaml, hash: 'sha256:65e6e49fbe7d0c70074023632acc2f69cfa9f19310fa1d8bdf00a3f703976d99'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0119_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0119_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 1275
     - 1275
   label: 錄文
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0119_ZW_000-mulu-3
     span:
-    - front
+    - body
     - 1277
     - 1277
   label: 佛說五佛壇菩薩、名錄、座位之處部第一
@@ -255,7 +255,7 @@ table_of_contents:
   label: 佛住王舍城耆闍崛山中說八菩薩、八供養、四攝啟請安壇之法，並及尊像、身色、座位之處部第二十六
   type: mulu
   level: 1
-hash: sha256:862462b2351fb0bc93715f373c2cb212eecf14670020f38449c3724e5a7922c5
+hash: sha256:d5e6afa0c25ac4fade42e20a077e60a3583fa9d3d8bb10c96bb32638289a430a
 editions:
 - short: ZW
 mappings:
